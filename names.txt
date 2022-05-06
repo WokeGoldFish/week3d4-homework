@@ -1,0 +1,11 @@
+Tsuchida, Shoha	shoha@codingsummit.org	(555) 555-5555	Teacher, Coding Summit	@shoha-tsuchida
+Wang, Ivan	ivan@codingsummit.org	(555) 555-5554	Teacher, Coding Summit
+Le, Daniel	daniel@codingsummit.org		Daniel,		@le
+Osterberg, Sven-Erik	governor@norrbotten.co.se		Governor, Norrbotten	@sverik
+, Tim	tim@killerrabbit.com		Enchanter, Killer Rabbit Cave
+T, Shinha	st@codingsummit.org	(555) 555-5543	CEO, Coding Summit	@shinha
+Doctor, The	doctor+companion@tardis.co.uk		Time Lord, Gallifrey
+Exampleson, Example	me@example.com	555-555-5552	Example, Example Co.	@example
+Okano, Shokou	shokou@codingsummit.org	(555) 555-5553	Marketing, Coding Summit	@sho
+Vader, Darth	darth-vader@empire.gov	(555) 555-4444	Sith Lord, Galactic Empire	@darthvader
+Fernandez de la Vega Sanz, Maria Teresa	mtfvs@spain.gov		First Deputy Prime Minister, Spanish Gov
